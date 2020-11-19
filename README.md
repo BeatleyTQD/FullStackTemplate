@@ -9,7 +9,7 @@ Templates Pages Starter Code and set up Readme for building a Full Stack app wit
 1. Create [.gitignore](https://github.com/MandasK/FullStackTemplate/blob/main/.gitignore)
 1. Run `git init` from the root of your project
 1. Add Nuget Packages `Microsoft.Data.SqlClient` and `Microsoft.AspNetCore.Authentication.JwtBearer` to connect SQL DB and Firebase Authentication.
-    **NOTE:** Check to be sure your dependency version matches the ASP.NET core version your using.
+    **NOTE:** Check to be sure your dependency version matches the ASP.NET core version you're using.
 1. Navigate to `Project > Debug > `. In `Environemnt Variables` update the `ASPNETCORE_ENVIRONMENT` Value to `Local`	
 1. Inside of `Project > Debug > ` update App URL to `https://localhost:5001;http://localhost:5000`
 
